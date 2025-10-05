@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif; /* Tipografía */
+    background-color: #f0f8ff; /* Color de fondo */
+    color: #333; /* Color de texto */
+    margin: 0;
+    padding: 0 20px;
+}
+
+/* Encabezado */
+header {
+    background-color: #4caf50; /* Verde */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* Secciones */
+section {
+    background-color: #e0f7fa; /* Azul claro */
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #b2ebf2;
+}
+
+/* Listas de intereses */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Imagen */
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 200px;
+    border-radius: 10px;
+    border: 2px solid #4caf50;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
